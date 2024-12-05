@@ -1,0 +1,6 @@
+.active{
+    background-color: rgb(240, 167, 229);
+    border-radius: 15px;
+    padding: 5px 10px;
+    /* transition: .03s; */
+}
