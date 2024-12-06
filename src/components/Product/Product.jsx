@@ -8,7 +8,7 @@ export default function Product({ product }) {
     
     return (
         <div className="bg-slate-400 p-4 shadow-md rounded-xl">
-            <div className="w-full h-32 bg-white rounded-xl"><img src={product_image} alt={product_title} /></div>
+            <div className="w-full h-32 bg-white rounded-xl flex justify-center items-center"><img className='w-36 h-32' src={product_image} alt={product_title} /></div>
             <h2>{product_title}</h2>
             <p>{price}$</p>
 

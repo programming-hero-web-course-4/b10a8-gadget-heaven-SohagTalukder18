@@ -39,7 +39,7 @@ export default function ProductDatail() {
 
             <div className='max-w-2xl h-96 mt-[-130px] mx-auto  border-2  bg-white rounded-2xl '>
 
-                <div className="card card-side w-full h-full  shadow-xl">
+                <div className="card card-side w-full h-full  shadow-xl items-center">
                     <div className='w-[30%]'>
                         <img className='p-3'
                             src={product_image}

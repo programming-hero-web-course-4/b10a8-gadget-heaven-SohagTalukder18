@@ -2,7 +2,7 @@
     {
         "product_id": 1,
         "product_title": "Samsung Galaxy S23",
-        "product_image": "https://images.app.goo.gl/h75Erwze4wiHTGPs6",
+        "product_image": "https://i.ibb.co.com/3ScxHgj/OIP.jpg",
         "category": "Phone",
         "price": 799.99,
         "description": "The latest flagship smartphone from Samsung with top-tier performance and camera.",
@@ -19,7 +19,7 @@
     {
         "product_id": 2,
         "product_title": "iPhone 14 Pro Max",
-        "product_image": "https://images.app.goo.gl/MTheC6QMwjMAWHGD9",
+        "product_image": "https://i.ibb.co.com/mBMtDtr/R.jpg",
         "category": "Phone",
         "price": 1099.99,
         "description": "Apple's latest and most powerful smartphone with ProMotion and Dynamic Island.",
@@ -36,7 +36,7 @@
     {
         "product_id": 3,
         "product_title": "Google Pixel 7",
-        "product_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gizmochina.com%2Fwp-content%2Fuploads%2F2022%2F10%2FGoogle-Pixel-7-Pro-Hazel-Featured-scaled.jpg&tbnid=_HT2UTpOaQVYbM&vet=1&imgrefurl=https%3A%2F%2Fwww.gizmochina.com%2Fproduct%2Fgoogle-pixel-7-pro%2F&docid=KSzPgj_0Yr-65M&w=2560&h=1440&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=d98000d36f80e9d6&shem=abme%2Ctrie",
+        "product_image": "https://i.ibb.co.com/QXPbmmh/OIP-1.jpg",
         "category": "Phone",
         "price": 599.99,
         "description": "Experience pure Android with the Google Pixel 7, now with enhanced AI features.",
@@ -53,7 +53,7 @@
     {
         "product_id": 4,
         "product_title": "OnePlus 11",
-        "product_image": "https://images.app.goo.gl/gUitvQTFX5UdmmsR8",
+        "product_image": "https://i.ibb.co.com/k0M23w8/OIP-2.jpg",
         "category": "Phone",
         "price": 699.99,
         "description": "Fast and smooth performance with OnePlus's flagship OnePlus 11.",
@@ -70,7 +70,7 @@
     {
         "product_id": 5,
         "product_title": "Xiaomi Redmi Note 12",
-        "product_image": "https://images.app.goo.gl/w28sk63RJ9JdZzDi8",
+        "product_image": "https://i.ibb.co.com/mXknbgX/OIP-3.jpg",
         "category": "Phone",
         "price": 249.99,
         "description": "Affordable and reliable, the Redmi Note 12 is perfect for everyday use.",
@@ -87,7 +87,7 @@
     {
         "product_id": 6,
         "product_title": "Motorola Edge 40",
-        "product_image": "https://images.app.goo.gl/ktHKv83C6q4wwFsv9",
+        "product_image": "https://i.ibb.co.com/LhhzwFQ/OIP-4.jpg",
         "category": "Phone",
         "price": 399.99,
         "description": "Stylish and capable, the Motorola Edge 40 delivers excellent value.",
@@ -104,7 +104,7 @@
     {
         "product_id": 7,
         "product_title": "Dell Inspiron 15",
-        "product_image": "https://images.app.goo.gl/mexvL2a3Pvxtjgh6A",
+        "product_image": "https://i.ibb.co.com/chyNFgn/OIP-5.jpg",
         "category": "Laptop",
         "price": 549.99,
         "description": "A dependable and affordable laptop for work and play.",
@@ -121,7 +121,7 @@
     {
         "product_id": 8,
         "product_title": "HP Pavilion Gaming 15",
-        "product_image": "https://images.app.goo.gl/iVsS8oTAPHRDCDbaA",
+        "product_image": "https://i.ibb.co.com/QrbWCqB/R-1.jpg",
         "category": "Laptop",
         "price": 799.99,
         "description": "A gaming laptop with high performance for an affordable price.",
@@ -138,7 +138,7 @@
     {
         "product_id": 9,
         "product_title": "MacBook Pro 16-inch",
-        "product_image": "https://images.app.goo.gl/Kx9gxVbKqbBTyVic6",
+        "product_image": "https://example.com/images/macbook-pro-16.jpg",
         "category": "MacBook",
         "price": 2499.99,
         "description": "Apple's most powerful MacBook with M2 Pro chip.",
@@ -155,7 +155,7 @@
     {
         "product_id": 10,
         "product_title": "MacBook Air M1",
-        "product_image": "https://images.app.goo.gl/kbxem4HWtbKfd46d8",
+        "product_image": "https://i.ibb.co.com/rHC1ZLL/R-2.jpg",
         "category": "MacBook",
         "price": 999.99,
         "description": "Ultra-lightweight and powerful, powered by Apple's M1 chip.",
@@ -172,7 +172,7 @@
     {
         "product_id": 11,
         "product_title": "Asus ROG Strix G15",
-        "product_image": "https://images.app.goo.gl/ubJAcJcMBedyeZ9h8",
+        "product_image": "https://i.ibb.co.com/1RCnzvZ/OIP-6.jpg",
         "category": "Laptop",
         "price": 1199.99,
         "description": "High-performance gaming laptop with RGB lighting and powerful specs.",
@@ -189,7 +189,7 @@
     {
         "product_id": 12,
         "product_title": "Garmin Venu 2 Plus",
-        "product_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.startech.com.bd%2Fimage%2Fcache%2Fcatalog%2Fsmart-watch%2Fgarmin%2Fvenu-2-plus%2Fvenu-2-plus-silver-01-500x500.webp&tbnid=Fj86mCuDuSS_AM&vet=1&imgrefurl=https%3A%2F%2Fwww.startech.com.bd%2Fgarmin-venu-2-plus-smartwatch&docid=Hdqyi0GuTy2g0M&w=500&h=500&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=1e65f2ba0d0fb326&shem=abme%2Ctrie",
+        "product_image": "https://i.ibb.co.com/zbCZTJZ/OIP-7.jpg",
         "category": "Smart Watch",
         "price": 449.99,
         "description": "Fitness-oriented smartwatch with excellent battery life and features.",
@@ -205,7 +205,7 @@
     {
         "product_id": 13,
         "product_title": "Sony Xperia 1 V",
-        "product_image": "https://images.app.goo.gl/ixagadD5B5MZuUtp8",
+        "product_image": "https://i.ibb.co.com/sqNjcdK/OIP-8.jpg",
         "category": "Phone",
         "price": 1199.99,
         "description": "Experience cinematic display and professional photography with Sony Xperia 1 V.",
@@ -222,7 +222,7 @@
     {
         "product_id": 14,
         "product_title": "Asus ZenBook 14",
-        "product_image": "https://images.app.goo.gl/cjX4ZYuWGrCWDKMY6",
+        "product_image": "https://i.ibb.co.com/X7QVc4c/R-3.jpg",
         "category": "Laptop",
         "price": 749.99,
         "description": "Lightweight ultrabook with powerful performance for professionals on the go.",
@@ -239,7 +239,7 @@
     {
         "product_id": 15,
         "product_title": "Fitbit Charge 5",
-        "product_image": "https://images.app.goo.gl/c1AJMxUEVn5ybwKb6",
+        "product_image": "https://i.ibb.co.com/0r7bXYr/OIP-9.jpg",
         "category": "Smart Watch",
         "price": 179.99,
         "description": "Track your fitness and health metrics with the stylish Fitbit Charge 5.",
@@ -255,7 +255,7 @@
     {
         "product_id": 16,
         "product_title": "Logitech MX Master 3S",
-        "product_image": "https://images.app.goo.gl/MJWE5ywyoYLUUXuC8",
+        "product_image": "https://i.ibb.co.com/WDv2Q7f/OIP-10.jpg",
         "category": "Accessories",
         "price": 99.99,
         "description": "Ergonomic wireless mouse with customizable buttons and long battery life.",
@@ -271,7 +271,7 @@
     {
         "product_id": 17,
         "product_title": "Microsoft Surface Pro 9",
-        "product_image": "https://images.app.goo.gl/YgESLoP7iYMZRRxH8",
+        "product_image": "https://i.ibb.co.com/PZkH4Wj/OIP-11.jpg",
         "category": "Laptop",
         "price": 1399.99,
         "description": "Versatile 2-in-1 device for productivity and creativity.",
@@ -288,7 +288,7 @@
     {
         "product_id": 18,
         "product_title": "Beats Studio Buds",
-        "product_image": "https://images.app.goo.gl/KYXJV21MgN1uMGm78",
+        "product_image": "https://i.ibb.co.com/SxmW1Fy/OIP-12.jpg",
         "category": "Accessories",
         "price": 149.99,
         "description": "True wireless earbuds with noise cancellation and deep bass.",
@@ -304,7 +304,7 @@
     {
         "product_id": 19,
         "product_title": "Apple Watch Ultra",
-        "product_image": "https://images.app.goo.gl/DSGkVji2aSbdgZZMA",
+        "product_image": "https://i.ibb.co.com/Z11Y7d6/th.jpg",
         "category": "Smart Watch",
         "price": 799.99,
         "description": "Premium smartwatch designed for adventurers and extreme sports.",
@@ -320,7 +320,7 @@
     {
         "product_id": 20,
         "product_title": "Alienware x17 R2",
-        "product_image": "https://images.app.goo.gl/zgw5jcRwrnuwNevj9",
+        "product_image": "https://i.ibb.co.com/nsfFqcm/OIP-13.jpg",
         "category": "Laptop",
         "price": 2999.99,
         "description": "High-performance gaming laptop with cutting-edge features.",
@@ -337,7 +337,7 @@
     {
         "product_id": 21,
         "product_title": "Razer Basilisk V3 Pro",
-        "product_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71L-flqtTwL._AC_SL1500_.jpg&tbnid=TEZu7D1V5mX4mM&vet=1&imgrefurl=https%3A%2F%2Fwww.ubuy.com.bd%2Fen%2Fproduct%2F8S06GJHVS-razer-basilisk-v3-customizable-ergonomic-gaming-mouse-fastest-gaming-mouse-switch-chroma-rgb-lighting-26k-dpi-optical-sensor-classic-black&docid=j-cjOWZp-PYzQM&w=1106&h=1500&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=696b92cc358427b9&shem=abme%2Ctrie",
+        "product_image": "https://i.ibb.co.com/hCmR81Y/R-4.jpg",
         "category": "Accessories",
         "price": 159.99,
         "description": "Gaming mouse with ergonomic design and RGB lighting.",
@@ -353,7 +353,7 @@
     {
         "product_id": 22,
         "product_title": "Huawei Mate X3",
-        "product_image": "https://images.app.goo.gl/NkqvVwzYjW2f2VCv5",
+        "product_image": "https://i.ibb.co.com/zx1qR2P/OIP-14.jpg",
         "category": "Phone",
         "price": 2299.99,
         "description": "Folding smartphone with high-resolution displays and premium features.",
@@ -370,7 +370,7 @@
     {
         "product_id": 23,
         "product_title": "Sony WH-1000XM5",
-        "product_image": "https://images.app.goo.gl/jQXG6ay1FQniZAdW9",
+        "product_image": "https://i.ibb.co.com/1J4v8XW/R-5.jpg",
         "category": "Accessories",
         "price": 399.99,
         "description": "Industry-leading noise-canceling over-ear headphones.",
@@ -386,7 +386,7 @@
     {
         "product_id": 24,
         "product_title": "Garmin Forerunner 965",
-        "product_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fph.garmin.com%2Fm%2Fph%2Fg%2Fproducts%2Fforerunner965-black-cf-lg.jpg&tbnid=GmG4kJ26WRVnXM&vet=1&imgrefurl=https%3A%2F%2Fph.garmin.com%2Fproducts%2Fwearables%2Fforerunner-965-black%2F&docid=btwfQzTz8dC1vM&w=600&h=600&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=bef56da72d49de73&shem=abme%2Ctrie",
+        "product_image": "https://i.ibb.co.com/zfx7SJc/OIP-15.jpg",
         "category": "Smart Watch",
         "price": 599.99,
         "description": "Advanced GPS smartwatch for runners and athletes.",
